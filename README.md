@@ -7,6 +7,7 @@ Raison D'etre
 Inspirations: Adventure Up
 
 Stages:
+
 	[0-10] Forest
 	[11-20] Cave
 	[21-35] Dungeon
@@ -14,6 +15,7 @@ Stages:
 	[46-80] Ancient Japan
 
 Stats:
+
 	Physical Damage
 	Magical Damage
 	Defense
@@ -22,6 +24,7 @@ Stats:
 	Agility
 
 Items:
+
 	E. Swords and Spears
 	E. Tomes and Staffs
 	E. Armor sets
@@ -37,6 +40,7 @@ Items:
 	Luck potion (1-3 raids) (Currency)
 	
 Features:
+
 	Inventory (Item storage)
 	Equipment (Equipable items)
 	Skill tree (Stats)
